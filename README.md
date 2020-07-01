@@ -49,3 +49,11 @@ Child = daughter, son, stepdaughter, stepson
 Some children travelled only with a nanny, therefore parch=0 for them.
 
 source: Kaggle
+
+The Techniques employed for the predictions are:
+1. Decision Trees
+2. Random Forest
+3. Lasso-Ridge Regression
+4. Linear Support Vector Machines
+5. Radial Support Vector Machine
+6. Logistic Regression
